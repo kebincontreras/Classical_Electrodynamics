@@ -25,11 +25,19 @@ python campo.py
 
 ### 3. Simulación ART-MS Trap
 
+<<<<<<< HEAD
 ![ART-MS Trap](ART_MS_Trap_mejorado.png)
 
 Para ejecutar la simulación y generar la visualización:
 ```bash
 python ART_MS_Trap_mejorado.py
+=======
+![Réplica Figure 2 ART-MS](Figure_2_ART_MS_Replica.png)
+
+Para ejecutar la simulación del ART-MS Trap:
+```bash
+python ART_MS_Trap.py
+>>>>>>> 078a94d35b80c8fc3e2f97149d3d5706db12e9b0
 ```
 
 ### 4. Simulaciones Adicionales
