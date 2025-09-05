@@ -13,6 +13,7 @@ Para ejecutar la simulación del potencial eléctrico:
 python potencial.py
 ```
 
+
 ### 2. Campo Eléctrico
 
 ![Campo Eléctrico Hemisferio](campo_electrico_hemisferio.png)
